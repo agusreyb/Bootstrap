@@ -33,6 +33,7 @@ ul li{
 }
 
 
+
 #miFooter{
     background-color: #112031;
     color: white;
@@ -56,9 +57,25 @@ ul li{
 .btn{
     background-color: #112031;
     color:white;
+    border-color: #112031;
+}
+
+.btn:hover{
+    background-color: aliceblue;
+    color: black;
+    border-color: #112031;
 }
 
 h2{
     background-color: #112031;
     color: white;
+}
+
+.card{
+    transition: all 1s;
+}
+
+.card:hover{
+    height: 300px;
+    width: 300px;
 }
