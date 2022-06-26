@@ -1,0 +1,64 @@
+.fuente__1{
+    font-style:initial;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 35px;
+    font-size: 35px;
+    text-align: center;
+    color: white;
+}
+.fuente__2{
+    margin-top: 5px;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    line-height: 25px;
+    font-size: 25px;
+    color: wheat;
+}
+
+
+header{
+    background-color: #112031;
+}
+
+.navbar{
+    border-top: 3px solid white;
+}
+
+
+
+ul li{
+    background-color:white ;
+    border-radius: 10px;
+}
+
+
+#miFooter{
+    background-color: #112031;
+    color: white;
+}
+
+
+
+.titulo_contacto{
+    font-size:30px;
+    background-color:#112031;
+    align-items: center;
+    color: white;
+}
+
+.texto_contacto{
+
+    font-size: 20px;
+    font-style: normal;
+
+}
+.btn{
+    background-color: #112031;
+    color:white;
+}
+
+h2{
+    background-color: #112031;
+    color: white;
+}
